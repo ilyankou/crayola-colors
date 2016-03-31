@@ -1,15 +1,24 @@
 /*
-    Crayola Colors
+    CRAYOLA COLORS
     List of 186 Crayola crayon colors for web
 
-    .cr-color-name for {color: #hex;}
-    .cr-bg-color-name for {background-color: #hex;}
-    .cr-border-color-name for {border-color: #hex;}
-    .cr-fill-color-name for {fill: #hex;}
-    .cr-stroke-color-name for {stroke: #hex;}
+    .cr-ultramarine-blue
+        {color: #3f26bf;}
 
-    Source: https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
-    Source: http://www.crayola.com/explore-colors/
+    .cr-bg-ultramarine-blue
+        {background-color: #3f26bf;}
+
+    .cr-border-ultramarine-blue
+        {border-color: #3f26bf;}
+
+    .cr-fill-ultramarine-blue
+        {fill: #3f26bf;}
+
+    .cr-stroke-ultramarine-blue
+        {stroke: #3f26bf;}
+
+    Source 1: https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
+    Source 2: http://www.crayola.com/explore-colors/
  */
 
 /* Colors */
